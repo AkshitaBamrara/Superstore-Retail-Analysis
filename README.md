@@ -1,4 +1,4 @@
-# Superstore Retail Performance Analysis
+## Superstore Retail Performance Analysis
 
 ## Overview
 End-to-end analysis of 9,994 retail orders to identify revenue drivers, 
