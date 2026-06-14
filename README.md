@@ -25,9 +25,9 @@ profitability issues, and seasonal trends using SQL, Excel, and Power BI.
 - Power BI — interactive dashboard
 
 ## Dashboard Preview
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Superstore_Dashboard.png)
 
 ## Files
 - `Superstore_SQL_Queries.txt` — all 8 SQL queries with findings
 - `Superstore_Analysis.xlsx` — Excel PivotTables and charts
-- `Dashboard_Screenshot.png` — Power BI dashboard screenshot
+- `Superstore_Dashboard.png` — Power BI dashboard screenshot
